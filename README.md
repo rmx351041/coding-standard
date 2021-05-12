@@ -18,7 +18,7 @@ phpcs.xml
     <file>application/crm/model/Contract.php</file>
 
     <!-- Include all rules from the Rmx351 Coding Standard -->
-    <rule ref="Rmx351CodingStandard" />
+    <rule ref="vendor/rmx351/coding-standard" />
 </ruleset>
 ```
 composer.json
