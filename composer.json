@@ -1,0 +1,16 @@
+{
+  "name": "rmx351/coding-standard",
+  "description": "Rmx351 Coding Standard",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mengxu Ran",
+      "email": "rmx351@163.com"
+    }
+  ],
+  "require": {
+    "webimpress/coding-standard": "^1.2",
+    "slevomat/coding-standard": "^7.0"
+  }
+}
