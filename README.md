@@ -1,6 +1,6 @@
 # coding-standard
 
-`composer require --dev rmx351041/coding-standard`
+`composer require --dev rmx351/coding-standard`
 
 phpcs.xml
 ```xml
