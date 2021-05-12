@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="Rmx351 Coding Standard">
+    <rule ref="vendor/rmx351/coding-standard/src/Rmx351CodingStandard/ruleset.xml"/>
+</ruleset>
