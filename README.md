@@ -17,7 +17,7 @@ phpcs.xml
     <arg value="p" />
     <file>application/crm/model/Contract.php</file>
 
-    <!-- Include all rules from the Sqzs Coding Standard -->
+    <!-- Include all rules from the Rmx351 Coding Standard -->
     <rule ref="Rmx351CodingStandard" />
 </ruleset>
 ```
